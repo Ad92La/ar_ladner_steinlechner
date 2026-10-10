@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="RASPBERRY_PI_5" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="RASPBERRY_PI_5s_assembly" assemblyId="a4abf85412f74a9087ef165b2c535ce3">
+<Part name="RASPBERRY_PI_5" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0024603 -0.0263185 0.164034" rotation="AD: 0.997391 0.144974 -0.595207 203.45" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0446953 -0.0281217 0.118847" rotation="AD: -1 0.00302339 -0.00308009 91.0651" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.0515936 0.0137294 0.100291" rotation="AD: 0.999626 -0.0717203 0.419493 197.879" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-0.044343 -0.00315921 0.13843" rotation="AD: 1 0.000704222 -0.00308009 205.757" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="0.0296852 0.00330913 0.152802" rotation="AD: -0.998285 -0.0820438 1.02324 173.601" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
