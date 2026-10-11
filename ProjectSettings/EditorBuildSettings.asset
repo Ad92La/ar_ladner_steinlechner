@@ -9,7 +9,13 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 3685c667d00539246a7ee8ad0a53be2d
+  - enabled: 1
     path: Assets/Scenes/RasberryTargetScene.unity
     guid: c2b0f0c7accd05e418b361d673408413
+  - enabled: 1
+    path: Assets/Scenes/RasberryAssembleScene.unity
+    guid: 7fd17e0f2c01f45469b8b237ce53dc12
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
